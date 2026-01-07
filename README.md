@@ -39,4 +39,11 @@ Shows the duration of movies and the number of seasons for TV shows.
 ## Dashboard
 <img width="1918" height="842" alt="Screenshot 2026-01-06 153018" src="https://github.com/user-attachments/assets/924dd5ef-46e9-40d7-8079-e1b8f5456bb3" />
 
+## ✅ Conclusion
+
+•	This Tableau dashboard provides a clear overview of Netflix movies and TV shows using visual analysis. By analyzing data by year, country, genre, ratings, and content type, the dashboard helps in understanding how Netflix’s content is distributed and how it has grown over time.
+
+•	The project helped me learn how to clean data, create worksheets, and design an interactive dashboard in Tableau. Overall, this beginner project improved my data visualization skills and helped me understand how dashboards can be used to gain meaningful insights from real-world data.
+
+
 
