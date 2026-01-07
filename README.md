@@ -1,5 +1,3 @@
-Netflix Dashboard (Interactive Dashboard creation using Tableau)
-
-📌 Project Objective
-
-The objective of this project is to create an interactive Tableau dashboard to analyze Netflix movies and TV shows. This dashboard helps in understanding content distribution, popular genres, ratings, release year trends, and country-wise availability of content on Netflix.
+Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+Project Objective
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
