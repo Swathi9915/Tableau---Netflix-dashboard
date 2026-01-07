@@ -1,2 +1,4 @@
 # Tableau---Netflix-dashboard
-An interactive Netflix dashboard created using Tableau to analyze movies and TV shows based on genre, release year, country, ratings, and duration. This project provides insights into Netflix’s content distribution and trends through visual analytics.
+Netflix Dashboard (Interactive Dashboard creation using Tableau)
+📌 Project Objective
+The objective of this project is to create an interactive Tableau dashboard to analyze Netflix movies and TV shows. This dashboard helps in understanding content distribution, popular genres, ratings, release year trends, and country-wise availability of content on Netflix.
