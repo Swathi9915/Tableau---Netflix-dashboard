@@ -5,11 +5,8 @@ The objective of this project is to create an interactive Tableau dashboard to a
 - <a href="https://github.com/Swathi9915/Tableau---Netflix-dashboard/blob/main/netflix_titles.csv">Dataset</a>
 ## ✅ Key Performance Indicators (KPIs)
 **•  Total Movies and TV Shows:**
-
 Shows the total number of movies and TV shows available on Netflix.
-
 **•  Movies and TV Shows by Year:**
-
 Shows how many movies and TV shows were released each year.
 
 **•  Movies vs TV Shows Distribution:**
