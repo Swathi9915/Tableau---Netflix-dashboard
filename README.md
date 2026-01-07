@@ -37,9 +37,7 @@ Shows when movies and TV shows were added to Netflix.
 Shows the duration of movies and the number of seasons for TV shows.
 
 ## Dashboard
-<img width="1918" height="1000" alt="Screenshot 2026-01-06 153018" src="https://github.com/user-attachments/assets/924dd5ef-46e9-40d7-8079-e1b8f5456bb3" />
-
-## 📈 Project Insights
+https://github.com/Swathi9915/Tableau---Netflix-dashboard/blob/main/Screenshot%202026-01-06%20153018.png
 
 •	Netflix has more Movies compared to TV Shows.
 
