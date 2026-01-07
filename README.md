@@ -1,4 +1,3 @@
-# Tableau---Netflix-dashboard
 Netflix Dashboard (Interactive Dashboard creation using Tableau)
 
 📌 Project Objective
